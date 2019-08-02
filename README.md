@@ -1,0 +1,2 @@
+# VSGitRepo
+VisualStudio repository
