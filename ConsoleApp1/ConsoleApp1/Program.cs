@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             //Trying to pull now :)
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to GIT");
             
         }
     }
